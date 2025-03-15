@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293177181644",
+    "project_id": "mmcm-queue-system",
+    "storage_bucket": "mmcm-queue-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293177181644:android:8e0e4b9ff2fc1c64f84969",
+        "android_client_info": {
+          "package_name": "com.example.movdev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rxUUXFT6UieUugpTU6DKUK-VBNbtMho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
